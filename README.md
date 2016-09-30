@@ -1,5 +1,7 @@
 # zmq-static
 
+[![Build Status](https://travis-ci.org/nteract/zmq-static.svg?branch=master)](https://travis-ci.org/nteract/zmq-static)
+[![Build status](https://ci.appveyor.com/api/projects/status/mos911y2mq3a7ag5?svg=true)](https://ci.appveyor.com/project/nteract/zmq-static)
 
 **zmq-static**: Your statically linked [ØMQ](http://www.zeromq.org/)
 bindings for [Node.js](https://nodejs.org/en/).
