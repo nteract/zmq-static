@@ -12,3 +12,5 @@ binding.target.gyp.mk
 npm-debug.log
 gyp-mac-tool
 out/
+zmq
+npm-debug.log
