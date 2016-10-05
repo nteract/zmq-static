@@ -1,6 +1,6 @@
 {
   "name": "zmq-static",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Statically linked bindings for node.js and io.js to ZeroMQ",
   "main": "index",
   "repository": {
@@ -24,7 +24,16 @@
     "install": "node-gyp rebuild",
     "test": "mocha --expose-gc --slow 300"
   },
-  "keywords": ["zeromq", "zmq", "0mq", "ømq", "libzmq", "native", "binding", "addon"],
+  "keywords": [
+    "zeromq",
+    "zmq",
+    "0mq",
+    "ømq",
+    "libzmq",
+    "native",
+    "binding",
+    "addon"
+  ],
   "license": "MIT",
   "author": "Justin Tulloss <justin.tulloss@gmail.com> (http://justin.harmonize.fm)",
   "contributors": [
