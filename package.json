@@ -1,6 +1,6 @@
 {
   "name": "zmq-static",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Statically linked bindings for node.js and io.js to ZeroMQ",
   "main": "index",
   "repository": {
