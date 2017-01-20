@@ -1,5 +1,7 @@
 ## Deprecated: All features are now available in [`zmq-prebuilt`](https://github.com/nteract/zmq-prebuilt)!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nteract/zmq-static.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/nteract/zmq-static.svg?branch=master)](https://travis-ci.org/nteract/zmq-static)
 [![Build status](https://ci.appveyor.com/api/projects/status/mos911y2mq3a7ag5?svg=true)](https://ci.appveyor.com/project/nteract/zmq-static)
 
