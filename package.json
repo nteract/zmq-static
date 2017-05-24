@@ -12,7 +12,7 @@
     "nan": "^2.4.0"
   },
   "devDependencies": {
-    "mocha": "^3.1.0",
+    "mocha": "3.4.1",
     "semver": "^5.3.0",
     "should": "^11.1.0"
   },
